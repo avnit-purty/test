@@ -11,5 +11,6 @@ public class Test {
 
 interface Inter {
 	public int add(int a, int b);
+	// hello world
 
 }
