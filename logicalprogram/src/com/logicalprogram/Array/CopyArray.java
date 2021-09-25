@@ -4,6 +4,7 @@ public class CopyArray {
 	
 
 	public static void main(String[] args) {
+		System.out.println(" hello jenkins world");
 		
            int []arr=new int[] {1,2,3,4,5,6};
            int[]ar= new int[arr.length];
